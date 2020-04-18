@@ -1,0 +1,425 @@
+[
+    {
+        "testament": "Old Testament",
+        "details": {
+            "books": [
+                {
+                    "name": "Genesis",
+                    "totalChapters": "50",
+                    "totalVerse": "1,533",
+                    "writer": "Moses"
+                },
+                {
+                    "name": "Exodus",
+                    "totalChapters": "40",
+                    "totalVerse": "1,213",
+                    "writer": "Moses"
+                },
+                {
+                    "name": "Leviticus",
+                    "totalChapters": "27",
+                    "totalVerse": "858",
+                    "writer": "Moses"
+                },
+                {
+                    "name": "Numbers",
+                    "totalChapters": "36",
+                    "totalVerse": "1,288",
+                    "writer": "Moses"
+                },
+                {
+                    "name": "Deuteronomy",
+                    "totalChapters": "34",
+                    "totalVerse": "959",
+                    "writer": "Moses"
+                },
+                {
+                    "name": "Joshua",
+                    "totalChapters": "24",
+                    "totalVerse": "658",
+                    "writer": "Joshua"
+                },
+                {
+                    "name": "Judges",
+                    "totalChapters": "21",
+                    "totalVerse": "618",
+                    "writer": "Samuel, Nathan, Gad"
+                },
+                {
+                    "name": "Ruth",
+                    "totalChapters": "4",
+                    "totalVerse": "85",
+                    "writer": "Samuel, Nathan, Gad"
+                },
+                {
+                    "name": "1 Samuel",
+                    "totalChapters": "31",
+                    "totalVerse": "810",
+                    "writer": "Samuel, Nathan, Gad"
+                },
+                {
+                    "name": "2 Samuel",
+                    "totalChapters": "24",
+                    "totalVerse": "695",
+                    "writer": "Samuel, Nathan, Gad"
+                },
+                {
+                    "name": "1 Kings",
+                    "totalChapters": "22",
+                    "totalVerse": "817",
+                    "writer": "Jeremiah"
+                },
+                {
+                    "name": "2 Kings",
+                    "totalChapters": "25",
+                    "totalVerse": "719",
+                    "writer": "Jeremiah"
+                },
+                {
+                    "name": "1 Chronicles",
+                    "totalChapters": "29",
+                    "totalVerse": "943",
+                    "writer": "Ezra"
+                },
+                {
+                    "name": "2 Chronicles",
+                    "totalChapters": "36",
+                    "totalVerse": "821",
+                    "writer": "Ezra"
+                },
+                {
+                    "name": "Ezra",
+                    "totalChapters": "10",
+                    "totalVerse": "280",
+                    "writer": "Ezra"
+                },
+                {
+                    "name": "Nehemiah",
+                    "totalChapters": "13",
+                    "totalVerse": "405",
+                    "writer": "Ezra"
+                },
+                {
+                    "name": "Esther",
+                    "totalChapters": "10",
+                    "totalVerse": "167",
+                    "writer": "Mordecai"
+                },
+                {
+                    "name": "Job",
+                    "totalChapters": "42",
+                    "totalVerse": "1068",
+                    "writer": "Job"
+                },
+                {
+                    "name": "Psalms",
+                    "totalChapters": "150",
+                    "totalVerse": "2,526",
+                    "writer": " David, Asaph, Ezra, sons of Korah, Heman, Ethan, Moses and others"
+                },
+                {
+                    "name": "Proverbs",
+                    "totalChapters": "31",
+                    "totalVerse": "915",
+                    "writer": "Solomon, Agur and Lemuel"
+                },
+                {
+                    "name": "Ecclesiastes",
+                    "totalChapters": "12",
+                    "totalVerse": "222",
+                    "writer": "Solomon"
+                },
+                {
+                    "name": "Song of Solomon",
+                    "totalChapters": "8",
+                    "totalVerse": "117",
+                    "writer": "Solomon"
+                },
+                {
+                    "name": "Isaiah",
+                    "totalChapters": "66",
+                    "totalVerse": "1,291",
+                    "writer": "Isaiah"
+                },
+                {
+                    "name": "Jeremiah",
+                    "totalChapters": "52",
+                    "totalVerse": "1,364",
+                    "writer": "Jeremiah"
+                },
+                {
+                    "name": "Lamentations",
+                    "totalChapters": "5",
+                    "totalVerse": "154",
+                    "writer": "Jeremiah"
+                },
+                {
+                    "name": "Ezekiel",
+                    "totalChapters": "48",
+                    "totalVerse": "1,273",
+                    "writer": "Ezekiel"
+                },
+                {
+                    "name": "Daniel",
+                    "totalChapters": "12",
+                    "totalVerse": "357",
+                    "writer": "Daniel"
+                },
+                {
+                    "name": "Hosea",
+                    "totalChapters": "14",
+                    "totalVerse": "197",
+                    "writer": "Hosea"
+                },
+                {
+                    "name": "Joel",
+                    "totalChapters": "3",
+                    "totalVerse": "73",
+                    "writer": "Joel"
+                },
+                {
+                    "name": "Amos",
+                    "totalChapters": "9",
+                    "totalVerse": "146",
+                    "writer": "Amos"
+                },
+                {
+                    "name": "Obadiah",
+                    "totalChapters": "1",
+                    "totalVerse": "21",
+                    "writer": "Obadiah"
+                },
+                {
+                    "name": "Jonah",
+                    "totalChapters": "4",
+                    "totalVerse": "48",
+                    "writer": "Jonah"
+                },
+                {
+                    "name": "Micah",
+                    "totalChapters": "7",
+                    "totalVerse": "105",
+                    "writer": "Micah"
+                },
+                {
+                    "name": "Nahum",
+                    "totalChapters": "3",
+                    "totalVerse": "47",
+                    "writer": "Nahum"
+                },
+                {
+                    "name": "Habakkuk",
+                    "totalChapters": "3",
+                    "totalVerse": "56",
+                    "writer": "Habakkuk"
+                },
+                {
+                    "name": "Zephaniah",
+                    "totalChapters": "3",
+                    "totalVerse": "53",
+                    "writer": "Zephaniah"
+                },
+                {
+                    "name": "Haggai",
+                    "totalChapters": "2",
+                    "totalVerse": "38",
+                    "writer": "Haggai"
+                },
+                {
+                    "name": "Zechariah",
+                    "totalChapters": "14",
+                    "totalVerse": "211",
+                    "writer": "Zechariah"
+                },
+                {
+                    "name": "Malachi",
+                    "totalChapters": "4",
+                    "totalVerse": "55",
+                    "writer": "Malachi"
+                }
+              
+            ],
+            "totalBooks" : "39",
+            "totalChapters": "929",
+            "totalVerses": "23,214"
+        }
+    },
+    {
+        "testament": "New Testament",
+        "details": {
+            "books": [
+                {
+                    "name": "Mattew",
+                    "totalChapters": "28",
+                    "totalVerse": "1,071",
+                    "writer": "Matthew"
+                },
+                {
+                    "name": "Mark",
+                    "totalChapters": "16",
+                    "totalVerse": "678",
+                    "writer": "Mark"
+                },
+                {
+                    "name": "Luke",
+                    "totalChapters": "24",
+                    "totalVerse": "1,151",
+                    "writer": "Luke"
+                },
+                {
+                    "name": "John",
+                    "totalChapters": "21",
+                    "totalVerse": "879",
+                    "writer": "John, the Apostle"
+                },
+                {
+                    "name": "Acts",
+                    "totalChapters": "28",
+                    "totalVerse": "1,006",
+                    "writer": "Luke"
+                },
+                {
+                    "name": "Romans",
+                    "totalChapters": "16",
+                    "totalVerse": "433",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "1 Corinthians",
+                    "totalChapters": "16",
+                    "totalVerse": "437",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "2 Corinthians",
+                    "totalChapters": "13",
+                    "totalVerse": "256",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "Galatians",
+                    "totalChapters": "6",
+                    "totalVerse": "149",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "Ephesians",
+                    "totalChapters": "6",
+                    "totalVerse": "155",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "Philippians",
+                    "totalChapters": "4",
+                    "totalVerse": "104",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "Colossians",
+                    "totalChapters": "4",
+                    "totalVerse": "95",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "1 Thessalonians",
+                    "totalChapters": "5",
+                    "totalVerse": "89",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "2 Thessalonians",
+                    "totalChapters": "3",
+                    "totalVerse": "47",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "1 Timothy",
+                    "totalChapters": "6",
+                    "totalVerse": "113",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "2 Timothy",
+                    "totalChapters": "4",
+                    "totalVerse": "83",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "Titus",
+                    "totalChapters": "3",
+                    "totalVerse": "46",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "Philemon",
+                    "totalChapters": "1",
+                    "totalVerse": "25",
+                    "writer": "Paul"
+                },
+                {
+                    "name": "Hebrews",
+                    "totalChapters": "13",
+                    "totalVerse": "303",
+                    "writer": "Paul, Luke, Barnabas, Apollos"
+                },
+                {
+                    "name": "James",
+                    "totalChapters": "5",
+                    "totalVerse": "108",
+                    "writer": "James, and several men"
+                },
+                {
+                    "name": "1 Peter",
+                    "totalChapters": "5",
+                    "totalVerse": "105",
+                    "writer": "Peter"
+                },
+                {
+                    "name": "2 Peter",
+                    "totalChapters": "3",
+                    "totalVerse": "61",
+                    "writer": "Peter"
+                },
+                {
+                    "name": "1 John",
+                    "totalChapters": "5",
+                    "totalVerse": "105",
+                    "writer": "John, the Apostle"
+                },
+                {
+                    "name": "2 John",
+                    "totalChapters": "1",
+                    "totalVerse": "13",
+                    "writer": "John, the Apostle"
+                },
+                {
+                    "name": "3 John",
+                    "totalChapters": "1",
+                    "totalVerse": "15",
+                    "writer": "John, the Apostle"
+                },
+                {
+                    "name": "Jude",
+                    "totalChapters": "1",
+                    "totalVerse": "25",
+                    "writer": "Jude, the brother of Jesus and James"
+                },
+                {
+                    "name": "Revelation",
+                    "totalChapters": "22",
+                    "totalVerse": "404",
+                    "writer": "John, the Apostle"
+                }
+              
+            ],
+            "totalBooks" : "27",
+            "totalChapters": "260",
+            "totalVerses": "7,959"
+        }
+    },
+    {
+        "totalBooks": "66",
+        "totalChapters": "1,189",
+        "totalVerses": "31,173"
+    }
+]
